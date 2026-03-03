@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    margin-top: -250px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: "Bungee", serif;
+    font-size: 60px;
+    font-style: italic;
+    margin-top: 1px;
+}
